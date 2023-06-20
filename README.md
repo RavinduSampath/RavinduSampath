@@ -2,7 +2,7 @@
 - 👀 I’m interested in AI/ML
 - 🌱 I’m currently learning Web Aplication Development
 - 💞️ I’m looking to collaborate on open source projects.
-- 📫 How to reach me praneethravindu@gmail.com
+- 📫 How to reach me rprsampath@gmail.com
 
 <!---
 RavinduSampath/RavinduSampath is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
